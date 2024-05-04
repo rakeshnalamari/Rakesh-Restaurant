@@ -3,6 +3,6 @@
 - Used bootstrap tools & own styles.
 - Implemented responsive template.
 
-👉🏻 [Demo](https://yaninatrekhleb.github.io/restaurant-website/)
+👉🏻 [Demo](https://rakeshnalamari.github.io/Rakesh-Restaurant/)
 
 ![Demo](img/demo.gif)
